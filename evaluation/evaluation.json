@@ -1,0 +1,10 @@
+{
+  "classification_metrics": {
+    "accuracy": {
+      "value": 0.999
+    },
+    "f1_score": {
+      "value": 0.9850746268656716
+    }
+  }
+}
